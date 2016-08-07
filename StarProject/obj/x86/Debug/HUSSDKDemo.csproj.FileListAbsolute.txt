@@ -1,0 +1,242 @@
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.pdb
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AdaptorFactory.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AlarmMsgProvider.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AssiiCmdUtils.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\Comm.Client.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ConfigureFileAccessor.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\DeviceConfig.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorBase.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorProxyBase.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECCommonCmdsBuilder.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgBase.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgboxBase.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgDispatcher.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgFilter.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgHandler.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.Lib.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.PlugIn.Core.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.WCF.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Controls.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.CSHelper.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.EC.Contract.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.DeviceConfigManager.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.LogRecordManager.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.SiteTreeManager.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.DataAccess.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleCommon.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleLibrary.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.InterCom.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Site.Tool.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\Hus.Site.WSProxy.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Util.CommandHandler.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.VMS.MS.Contract.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Web.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSClientCommunication.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgBase.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgDispatcher.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\log4net.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SiteImage.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SiteImageAdaptor.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\StreamClientWraper.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeClient.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeWSFileOperator.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPAuditorProxy.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPClientUtils.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPPipelineUtils.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\VideoAdaptorWrapper.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\VideoDownloader.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Client.Lib.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Client.Lib.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Client.Lib.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Controls.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Controls.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Controls.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.CSHelper.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.CSHelper.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\en\VideoDownloader.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\VideoDownloader.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\VideoDownloader.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\VideoDownloader.resources.dll
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_DVRVideo.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_HandleAlarm.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LocalVideo.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_NVRVideo.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_PlayVideo.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_QueryLog.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LiveView.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_SDKDemo.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Properties.Resources.resources
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.GenerateResource.Cache
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb
+E:\工作\项目\工作资料\津湾广场\视频监控\v4.2.0+HUSSDK22\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+C:\Users\Administrator\Desktop\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+C:\Users\Administrator\Desktop\v4.2.0 HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.pdb
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AdaptorFactory.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AlarmMsgProvider.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\AssiiCmdUtils.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\Comm.Client.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ConfigureFileAccessor.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\DeviceConfig.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorBase.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorProxyBase.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECCommonCmdsBuilder.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgBase.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgboxBase.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgDispatcher.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgFilter.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgHandler.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.Lib.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.PlugIn.Core.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.WCF.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Controls.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.CSHelper.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.EC.Contract.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.DeviceConfigManager.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.LogRecordManager.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.SiteTreeManager.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.DataAccess.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleCommon.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleLibrary.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.InterCom.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Site.Tool.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\Hus.Site.WSProxy.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Util.CommandHandler.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.VMS.MS.Contract.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Web.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSClientCommunication.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgBase.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgDispatcher.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SiteImage.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SiteImageAdaptor.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\StreamClientWraper.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeClient.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeWSFileOperator.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPAuditorProxy.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPClientUtils.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\TCPPipelineUtils.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\VideoAdaptorWrapper.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\VideoDownloader.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Client.Lib.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Client.Lib.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Client.Lib.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Controls.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Controls.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Controls.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.CSHelper.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.CSHelper.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\en\VideoDownloader.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\VideoDownloader.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\VideoDownloader.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\VideoDownloader.resources.dll
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_DVRVideo.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_HandleAlarm.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LocalVideo.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_NVRVideo.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_PlayVideo.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_QueryLog.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LiveView.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_SDKDemo.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HUSSDK\HUSSDK\HUSSDKDemo\obj\x86\Debug\ProwatchListener.MainForm.resources
+C:\Users\Administrator\Desktop\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+C:\Users\Administrator\Desktop\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+C:\Users\Administrator\Desktop\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.pdb
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\AdaptorFactory.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\AlarmMsgProvider.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\AssiiCmdUtils.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\Comm.Client.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ConfigureFileAccessor.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\DeviceConfig.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorBase.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECAuditorProxyBase.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECCommonCmdsBuilder.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgBase.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgboxBase.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgDispatcher.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgFilter.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ECMsgHandler.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.Lib.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.PlugIn.Core.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Client.WCF.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Controls.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.CSHelper.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.EC.Contract.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.DeviceConfigManager.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.LogRecordManager.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.MS.SiteTreeManager.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.DataAccess.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleCommon.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleLibrary.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.RE.RuleRuntime.InterCom.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Site.Tool.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\Hus.Site.WSProxy.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Util.CommandHandler.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.VMS.MS.Contract.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUS.Web.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSClientCommunication.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgBase.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\HUSCommunicationMsgDispatcher.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\log4net.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\SiteImage.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\SiteImageAdaptor.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\StreamClientWraper.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeClient.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\SynchronizeWSFileOperator.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\TCPAuditorProxy.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\TCPClientUtils.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\TCPPipelineUtils.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\VideoAdaptorWrapper.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\VideoDownloader.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Client.Lib.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Client.Lib.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Client.Lib.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.Controls.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.Controls.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\HUS.Controls.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\HUS.CSHelper.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\HUS.CSHelper.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\en\VideoDownloader.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\ko-KR\VideoDownloader.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-CHS\VideoDownloader.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\bin\Debug\zh-TW\VideoDownloader.resources.dll
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csprojResolveAssemblyReference.cache
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_DVRVideo.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_HandleAlarm.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LocalVideo.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\ProwatchListener.MainForm.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_NVRVideo.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_PlayVideo.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_QueryLog.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_LiveView.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Form_SDKDemo.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.Properties.Resources.resources
+D:\乱七八糟\HUSSDK_P\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.GenerateResource.Cache
+D:\乱七八糟\HUSSDK_new\HUSSDK\HUSSDKDemo\bin\Debug\HUSSDKDemo.exe.config
+D:\乱七八糟\HUSSDK_new\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.csproj.ResolveComReference.cache
+D:\乱七八糟\HUSSDK_new\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.exe
+D:\乱七八糟\HUSSDK_new\HUSSDK\HUSSDKDemo\obj\x86\Debug\HUSSDKDemo.pdb

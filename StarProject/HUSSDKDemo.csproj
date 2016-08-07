@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6144F53A-60E3-4BE0-AED9-D8C95D4048AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HUSSDKDemo</RootNamespace>
+    <AssemblyName>HUSSDKDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdaptorFactory, Version=4.2.0.0, Culture=neutral, PublicKeyToken=5ed817cab5edbb83, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\AdaptorFactory.dll</HintPath>
+    </Reference>
+    <Reference Include="AlarmMsgProvider, Version=4.2.0.0, Culture=neutral, PublicKeyToken=ac94b806187d3572, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\AlarmMsgProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="AssiiCmdUtils, Version=4.2.0.0, Culture=neutral, PublicKeyToken=71dda050f1ea8a6c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\AssiiCmdUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="Comm.Client, Version=4.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Comm.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigureFileAccessor, Version=4.2.0.0, Culture=neutral, PublicKeyToken=887ddfa9addd13a7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ConfigureFileAccessor.dll</HintPath>
+    </Reference>
+    <Reference Include="DeviceConfig, Version=4.0.2.0, Culture=neutral, PublicKeyToken=ce2046d2c9743ec8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\DeviceConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="ECAuditorBase, Version=4.2.0.0, Culture=neutral, PublicKeyToken=4e2c1c60dbe51f7f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECAuditorBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ECAuditorProxyBase, Version=4.2.0.0, Culture=neutral, PublicKeyToken=53e5a9b3c55d2713, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECAuditorProxyBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ECCommonCmdsBuilder, Version=4.2.0.0, Culture=neutral, PublicKeyToken=a7e71ef77bb854ce, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECCommonCmdsBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="ECMsgBase, Version=4.2.0.0, Culture=neutral, PublicKeyToken=d3529db817a47ebd, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECMsgBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ECMsgboxBase, Version=4.2.0.0, Culture=neutral, PublicKeyToken=59568e7d1530c918, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECMsgboxBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ECMsgDispatcher, Version=4.2.0.0, Culture=neutral, PublicKeyToken=0f4c8ed785fe0558, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECMsgDispatcher.dll</HintPath>
+    </Reference>
+    <Reference Include="ECMsgFilter, Version=4.2.0.0, Culture=neutral, PublicKeyToken=1ff5d0335d9467e0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECMsgFilter.dll</HintPath>
+    </Reference>
+    <Reference Include="ECMsgHandler, Version=4.2.0.0, Culture=neutral, PublicKeyToken=238492013aa56651, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\ECMsgHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Client.Lib, Version=4.1.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.Client.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Client.PlugIn.Core, Version=4.0.2.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.Client.PlugIn.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Client.WCF">
+      <HintPath>..\Lib\HUS.Client.WCF.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Controls, Version=4.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.CSHelper, Version=4.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.CSHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.EC.Contract">
+      <HintPath>..\Lib\HUS.EC.Contract.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.MS.DeviceConfigManager">
+      <HintPath>..\Lib\HUS.MS.DeviceConfigManager.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.MS.LogRecordManager, Version=4.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.MS.LogRecordManager.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.MS.SiteTreeManager">
+      <HintPath>..\Lib\HUS.MS.SiteTreeManager.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.RE.DataAccess">
+      <HintPath>..\Lib\HUS.RE.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.RE.RuleCommon, Version=4.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.RE.RuleCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.RE.RuleLibrary">
+      <HintPath>..\Lib\HUS.RE.RuleLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.RE.RuleRuntime">
+      <HintPath>..\Lib\HUS.RE.RuleRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.RE.RuleRuntime.InterCom">
+      <HintPath>..\Lib\HUS.RE.RuleRuntime.InterCom.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Site.Tool, Version=4.2.0.0, Culture=neutral, PublicKeyToken=d1cdf9512231f458, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.Site.Tool.dll</HintPath>
+    </Reference>
+    <Reference Include="Hus.Site.WSProxy, Version=4.2.0.0, Culture=neutral, PublicKeyToken=92c4bdf4084450b3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Hus.Site.WSProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Util.CommandHandler, Version=4.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.Util.CommandHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.VMS.MS.Contract, Version=4.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUS.VMS.MS.Contract.dll</HintPath>
+    </Reference>
+    <Reference Include="HUS.Web">
+      <HintPath>..\Lib\HUS.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="HUSClientCommunication, Version=4.2.0.0, Culture=neutral, PublicKeyToken=7410ade59c80e87a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUSClientCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="HUSCommunicationMsgBase, Version=4.2.0.0, Culture=neutral, PublicKeyToken=03e59fbbf37e488c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUSCommunicationMsgBase.dll</HintPath>
+    </Reference>
+    <Reference Include="HUSCommunicationMsgDispatcher, Version=4.2.0.0, Culture=neutral, PublicKeyToken=f4522749fe2f1fd0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\HUSCommunicationMsgDispatcher.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="SiteImage, Version=4.2.0.0, Culture=neutral, PublicKeyToken=c2e46b5ca47023d0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\SiteImage.dll</HintPath>
+    </Reference>
+    <Reference Include="SiteImageAdaptor, Version=4.2.0.0, Culture=neutral, PublicKeyToken=ab9ce1d65c4f182c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\SiteImageAdaptor.dll</HintPath>
+    </Reference>
+    <Reference Include="StreamClientWraper, Version=4.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\StreamClientWraper.dll</HintPath>
+    </Reference>
+    <Reference Include="SynchronizeClient, Version=4.2.0.0, Culture=neutral, PublicKeyToken=65a7a7d754e0980a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\SynchronizeClient.dll</HintPath>
+    </Reference>
+    <Reference Include="SynchronizeWSFileOperator, Version=4.2.0.0, Culture=neutral, PublicKeyToken=4e8c1f599aa26aea, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\SynchronizeWSFileOperator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TCPAuditorProxy, Version=4.2.0.0, Culture=neutral, PublicKeyToken=e47b7a8e39fbe0ca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\TCPAuditorProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="TCPClientUtils, Version=4.2.0.0, Culture=neutral, PublicKeyToken=6f0d2839a7075369, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\TCPClientUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="TCPPipelineUtils, Version=4.0.2.0, Culture=neutral, PublicKeyToken=7f343b81215343a3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\TCPPipelineUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="VideoAdaptorWrapper, Version=4.0.2.0, Culture=neutral, PublicKeyToken=fbab4577bcfafec8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\VideoAdaptorWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="VideoDownloader, Version=4.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\VideoDownloader.dll</HintPath>
+    </Reference>
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WPFToolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DVRVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DVRVideoForm.Designer.cs">
+      <DependentUpon>DVRVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HandleAlarmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HandleAlarmForm.Designer.cs">
+      <DependentUpon>HandleAlarmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocalVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LocalVideoForm.Designer.cs">
+      <DependentUpon>LocalVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVRVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVRVideoForm.Designer.cs">
+      <DependentUpon>NVRVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayVideoForm.Designer.cs">
+      <DependentUpon>PlayVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QueryLogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QueryLogForm.Designer.cs">
+      <DependentUpon>QueryLogForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LiveViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LiveViewForm.Designer.cs">
+      <DependentUpon>LiveViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SDKDemoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SDKDemoForm.Designer.cs">
+      <DependentUpon>SDKDemoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="DVRVideoForm.resx">
+      <DependentUpon>DVRVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HandleAlarmForm.resx">
+      <DependentUpon>HandleAlarmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocalVideoForm.resx">
+      <DependentUpon>LocalVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVRVideoForm.resx">
+      <DependentUpon>NVRVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayVideoForm.resx">
+      <DependentUpon>PlayVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QueryLogForm.resx">
+      <DependentUpon>QueryLogForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveViewForm.resx">
+      <DependentUpon>LiveViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SDKDemoForm.resx">
+      <DependentUpon>SDKDemoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="HUSRender">
+      <Guid>{EF70CCA2-10AD-40DD-8EE7-831BD4C91B92}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSHTML">
+      <Guid>{3050F1C5-98B5-11CF-BB82-00AA00BDCE0B}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
