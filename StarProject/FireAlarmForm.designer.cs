@@ -43,6 +43,17 @@
 
         #endregion
 
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.TextBox txGet;
+        private System.Windows.Forms.Button buttonOpenClose;
+        private System.Windows.Forms.CheckBox checkBoxHexView;
+        private System.Windows.Forms.Label labelGetCount;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.CheckBox checkBoxNewlineSend;
+        private System.Windows.Forms.CheckBox checkBoxHexSend;
+        private System.Windows.Forms.Button buttonSend;
+        private System.Windows.Forms.TextBox txSend;
+        private System.Windows.Forms.Label labelSendCount;
     }
 }
 

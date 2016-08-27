@@ -239,6 +239,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataHandle.cs" />
     <Compile Include="DVRVideoForm.cs">
       <SubType>Form</SubType>
     </Compile>
