@@ -22,7 +22,7 @@ namespace FireAlarm
         /// <returns>连接字符串</returns>
         private static string GetConnectionString()
         {
-            string MyConn = "server=127.0.0.1,1433;uid=air;pwd=123456;database=ha;Trusted_Connection=no";//定义数据库连接参数
+            string MyConn = "server=192.168.1.101,1433;uid=sa;pwd=123456;database=TEST;Trusted_Connection=no";//定义数据库连接参数
             //string MyConn = "Data Source=172.30.23.200,1433;Initial Catalog=data;User ID=sa;password=123456;Integrated Security=False"; 
             return MyConn;
         }
@@ -35,8 +35,8 @@ namespace FireAlarm
         public  static String  getGuid(String area,String point)
         {
             SqlConnection conn = new SqlConnection(GetConnectionString());
-            Console.WriteLine("SELECT * FROM sys_dic WHERE AREA= '" + area + "' AND POINT=  '" + point + "'");
-            SqlCommand comd = new SqlCommand("SELECT *  FROM sys_dic WHERE AREA= '" + area + "' AND POINT=  '" + point + "'", conn); 
+            Console.WriteLine("SELECT * FROM TEST.dbo.CCTV WHERE  Point=  '" + point + "'");
+            SqlCommand comd = new SqlCommand("SELECT * FROM TEST.dbo.CCTV WHERE  Point=  '" + point + "'", conn); 
             SqlDataAdapter SelectAdapter = new SqlDataAdapter();//定义一个数据适配器
             conn.Open();
             DataSet MyDataSet = new DataSet();//定义一个数据集
@@ -45,11 +45,11 @@ namespace FireAlarm
            String result = "";
             while (reader.Read())
             {
-                v.Area = reader.GetString(reader.GetOrdinal("area"));
-                v.Point = reader.GetString(reader.GetOrdinal("point"));
-                v.Guid = reader.GetString(reader.GetOrdinal("GUID"));
-                result=reader.GetString(reader.GetOrdinal("GUID"));
-                Console.Write("GUID =======" + reader.GetString(reader.GetOrdinal("GUID")));
+               // v.Area = reader.GetString(reader.GetOrdinal("area"));
+               // v.Point = reader.GetString(reader.GetOrdinal("point"));
+               // v.Guid = reader.GetString(reader.GetOrdinal("GUID"));
+                result = reader.GetString(reader.GetOrdinal("DeviceID"));
+                Console.Write("GUID =======" + reader.GetString(reader.GetOrdinal("DeviceID")));
                 return result;
             }
             conn.Close();//关闭数据库
@@ -57,6 +57,24 @@ namespace FireAlarm
         
         }
 
+
+        public static void saveFirePointInfo(String pointId,String hostId,String time) {
+            SqlConnection conn  = new SqlConnection(GetConnectionString()); ;
+            try
+            {
+                SqlCommand comd = new SqlCommand("insert into TEST.dbo.FireAlarm(PointID,Type,Time,HostID) values('" + pointId + "','火警','" + time + "','" + hostId + "') ", conn);
+                conn.Open();
+                comd.ExecuteReader();
+            }
+            catch (System.Exception ex)
+            {
+                Console.Write(ex.Message);
+            }
+            finally {
+                conn.Close();//关闭数据库
+            } 
+            
+        }
 
 
   

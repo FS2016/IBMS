@@ -271,3 +271,4 @@ D:\乱七八糟\IBMS\StarProject\obj\x86\Debug\HUSSDKDemo.Form_SDKDemo.resources
 D:\乱七八糟\IBMS\StarProject\obj\x86\Debug\HUSSDKDemo.Properties.Resources.resources
 D:\乱七八糟\IBMS\StarProject\obj\x86\Debug\HUSSDKDemo.csproj.GenerateResource.Cache
 D:\乱七八糟\IBMS\StarProject\obj\x86\Debug\FireAlarm.FireAlarmForm.resources
+D:\乱七八糟\IBMS\StarProject\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources

@@ -1,0 +1,88 @@
+当前时间：2016/8/28 14:40:20
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 14:40:24
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 14:42:00
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 14:42:13
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 14:42:13
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:17:00
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:17:14
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:17:44
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:53:20
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:53:50
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+
+当前时间：2016/8/28 15:54:20
+异常信息：引发类型为“HUS.Client.Lib.SDK.LoginException”的异常。
+异常对象：HUS.Client.Lib
+调用堆栈：
+在 HUS.Client.Lib.SDK.DeviceManagement.GetInstance()
+   在 HUSSDKDemo.Form_PlayVideo.startSingleVideo(String guid) 位置 D:\乱七八糟\IBMS\StarProject\PlayVideoForm.cs:行号 52
+触发方法：HUS.Client.Lib.SDK.DeviceManagement GetInstance()
+

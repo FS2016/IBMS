@@ -28,10 +28,12 @@ namespace FireAlarm
                         DateTime dt = DateTime.ParseExact(dateStr, "yyyyMMddHHmmss", System.Globalization.CultureInfo.InvariantCulture);
                         //火灾报警的时间
                         string fireDate = dt.ToString("yyyy-MM-dd HH:MM:ss");
-                        string resultStr = "在" + addressStr + "地址发生报警，发生时间：" + fireDate;    
+                        //主机地址
+                        String hostId = data.Substring(4, 2);
+                        string resultStr = "主机地址"+hostId+"在" + addressStr + "地址发生报警，发生时间：" + fireDate;
                         Console.WriteLine(resultStr);
                         //保存数据到数据库中
-
+                        SDataHepler.saveFirePointInfo(addressStr, hostId, fireDate);
                         return resultStr;
                     }
                 }
